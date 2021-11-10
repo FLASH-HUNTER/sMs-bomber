@@ -55,7 +55,7 @@ From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 
 ```pip install threading```
 
-```git clone https://github.com/FLASH-HANTER/sMs-bomber.git```
+```git clone https://github.com/FLASH-HUNTER/sMs-bomber.git```
 
 ```cd sMs-bomber```
 
