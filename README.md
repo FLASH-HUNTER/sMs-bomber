@@ -78,13 +78,6 @@ Apache 2.0 © Anubhav Kashyap
 
 
 
-## Contact Us
-* `If you have any feedback or queries`
-* `mail us at: anubhavkashyap@pm.me`
-
-## Telegram Channel
-* `Join the Official Telegram channel of XLR8`
-* `All updates of Xlr8 will be posted here !`
 
 
 ### Find Me on :
