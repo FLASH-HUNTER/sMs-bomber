@@ -1,8 +1,6 @@
-<h1 align="center">SMS BOMBER 1.0
+<h1 align="center">SMS BOMBER 1.0💣 📱 💀
 </h1>
 
-* `💣 📱 💀`<br />
-* `A Superfast SMS  bomber for Linux And Termux !`
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -88,8 +86,6 @@ Apache 2.0 © Anubhav Kashyap
 * `Join the Official Telegram channel of XLR8`
 * `All updates of Xlr8 will be posted here !`
 
-<a href="https://t.me/xlr8bomber">
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
 
 ### Find Me on :
 <p align="left">
