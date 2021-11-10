@@ -66,7 +66,7 @@ From here <a href="https://f-droid.org/repo/com.termux_117.apk">Link</a>
 * `1.0`
 
 ## Features
-* `Sms,Call & Whatsapp Bombing`
+* `Sms Bombing`
 
 * `Send anonymous msg`
 
